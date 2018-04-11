@@ -11,4 +11,3 @@ function charPosition(input) {
   }
   return letters;
 }
-console.log(charPosition("hello how are you"))
